@@ -1,8 +1,8 @@
 # claude-code-best-practice
 
-> 语言版本：中文（主） | [English Original](README-en.md)
+> 语言版本：[中文（Main README）](README.md) | [English Original](README-en.md)
 >
-> 说明：当前主 README 为中文版本；中文镜像见 [README-zh.md](README-zh.md)，原始英文内容保留在 [README-en.md](README-en.md)。
+> 说明：此文件为中文镜像版本；仓库默认展示的主 README 为 [README.md](README.md)。
 
 practice makes claude perfect
 
